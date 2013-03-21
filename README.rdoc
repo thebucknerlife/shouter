@@ -1,3 +1,3 @@
 Welcome to Shouter. This is a large Ruby on Rails assignment for Intro to Rails by General Assembly. Watch this grow over the coming weeks as I learn more about Rails.
 
-If you like what I'm doin, keep an eye on my GitHub as I build my personal Rails project towards the end of class. You'll have to wait and see what it is, but its going to be sweet!
+If you like what I'm doing, keep your eye on my GitHub account as I build my personal Rails project towards the end of class. You'll have to wait and see what it is, but its going to be sweet!
